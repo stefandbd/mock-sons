@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Promo 1",
+    "dealId": 1,
+    "active": false
+  },
+  {
+    "id": 2,
+    "title": "Promo 2",
+    "dealId": 1,
+    "active": false
+  },
+  {
+    "id": 3,
+    "title": "Promo 3",
+    "dealId": 1,
+    "active": true
+  },
+  {
+    "id": 4,
+    "title": "Promo 4",
+    "dealId": 4,
+    "active": true
+  },
+  {
+    "id": 5,
+    "title": "Promo 5",
+    "dealId": 1,
+    "active": false
+  },
+  {
+    "id": 6,
+    "title": "Promo 6",
+    "dealId": 1,
+    "active": false
+  },
+  {
+    "id": 7,
+    "title": "Promo 7",
+    "dealId": 1,
+    "active": false
+  },
+  {
+    "id": 8,
+    "title": "Promo 8",
+    "dealId": 5,
+    "active": false
+  },
+  {
+    "id": 9,
+    "title": "Promo 9",
+    "dealId": 1,
+    "active": false
+  },
+  {
+    "id": 10,
+    "title": "Promo 10",
+    "dealId": 1,
+    "active": false
+  }
+]
